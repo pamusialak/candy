@@ -4,7 +4,7 @@
 
 
 ## About the Project
-Welcome to my project, How Sweet Is This!—a delightful exploration of our favorite candy. This web page combines engaging content, vibrant imagery to celebrate and share the sweet joy of candy.
+Welcome to my project, How Sweet Is This!—a exploration of our favorite candy. This web page combines engaging content and images to celebrate and share the sweet joy of candy.
 
 ## Project Overview
 In this assignment, we are tasked with creating a visually appealing and informative web page centered around our favorite candy, and we chose Hershey's Cookies 'n' Cream. Key features include:
