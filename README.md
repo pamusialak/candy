@@ -14,6 +14,9 @@ In this assignment, we are tasked with creating a visually appealing and informa
  - Custom Styling: The page is styled with CSS, incorporating a custom font and various visual enhancements like gradient backgrounds and hover effects.
  - Interactive Footer: A footer includes a logo, company information, and a simple contact form (non-functional).
 
+You can check the project here:
+[Project](https://pamusialak.github.io/candy/)
+
 ## Tools Used
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
