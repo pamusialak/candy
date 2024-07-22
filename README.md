@@ -4,7 +4,7 @@
 
 
 ## About the Project
-Welcome to my project, How Sweet Is This!—a exploration of our favorite candy. This web page combines engaging content and images to celebrate and share the sweet joy of candy.
+Welcome to our project, How Sweet Is This!—a exploration of our favorite candy. This web page combines engaging content and images to celebrate and share the sweet joy of candy.
 
 ## Project Overview
 In this assignment, we are tasked with creating a visually appealing and informative web page centered around our favorite candy, and we chose Hershey's Cookies 'n' Cream. Key features include:
@@ -12,7 +12,7 @@ In this assignment, we are tasked with creating a visually appealing and informa
  - Semantic HTML: The page is built using appropriate HTML5 elements for clear structure and readability.
  - Liquid Layout: Designed with a responsive approach, the content is centered and adjusts gracefully to adjust to tablets.
  - Custom Styling: The page is styled with CSS, incorporating a custom font and various visual enhancements like gradient backgrounds and hover effects.
- - Interactive Footer: A footer includes a logo, company information, and a simple contact form (non-functional).
+ - Interactive Footer: A footer includes a logo, and a simple contact form (non-functional).
 
 You can check the project here:
 [Project](https://pamusialak.github.io/candy/)
